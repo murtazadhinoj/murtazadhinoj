@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=murtazadhinoj&label=Profile%20views&color=0e75b6&style=flat" alt="murtazadhinoj" /> </p>
 
-- 🔭 I’m currently working on **React, React Native, NodeJS and Python**
+- 🔭 I’m currently working on **React**
 
 - 🌱 I’m currently learning **Go**
 
