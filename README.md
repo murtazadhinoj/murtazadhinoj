@@ -5,17 +5,13 @@
 
 - 🔭 I’m currently working on **React**
 
-- 🌱 I’m currently learning **Go**
-
-- 👯 I’m looking to collaborate on **....**
+- 👯 I’m looking to collaborate on **NEXT**
 
 - 👨‍💻 All of my projects are available at https://github.com/murtazadhinoj
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **React,CODEIGNITER3,IONIC**
 
 - 📫 How to reach me **murtazadhiojwala2004@gmail.com**
-
-- ⚡ Fun fact **I thrive on coffee and late-night coding sessions. My best code is often written in the quiet hours when the world is asleep! ☕🌙 #NightCoder**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
