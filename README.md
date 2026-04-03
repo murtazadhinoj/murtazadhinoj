@@ -14,7 +14,7 @@ I'm a **Full Stack Developer** with **6+ months of production experience** build
 
 - **Backend:** PHP (CodeIgniter 3), REST APIs, MySQL optimization
 - **Frontend:** Ionic 5, Angular, JavaScript, responsive design
-- **Database:** MySQL, query optimization (N+1 problem solving)
+- **Database:** MySQL, query optimization 
 - **Problem-Solving:** Real-world debugging, performance optimization, system design
 
 **Currently:** Working at Applus Wave (School Management System Platform)
